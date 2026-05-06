@@ -1,0 +1,51 @@
+{
+  "association": {
+    "nom": "Association des Anciens Combattants de Saint-Armel",
+    "nom_complet": "Association Interdépartementale des C.P.G. · C.A.T.M. · T.O.E. · Section de Saint-Armel",
+    "devise": "Morts pour la France, Vivants pour leur mémoire",
+    "hero_titre": "Mémoire, transmission et fraternité",
+    "hero_texte": "Nous faisons vivre le souvenir des combattants de la France en transmettant leur héritage et leurs valeurs aux citoyens de demain."
+  },
+
+  "infos": [
+    {
+      "label": "Prochain événement",
+      "titre": "Célébration du 8 Mai",
+      "description": "Sous les ombrières de la salle Arzel<br>Dépôt de gerbe · Discours commémoratif<br>Quête des bleuets de France"
+    },
+    {
+      "label": "Nous rejoindre",
+      "titre": "Citoyens de la paix, engagez-vous !",
+      "description": "Assurez la relève de la mémoire<br>Réunion annuelle des membres"
+    },
+    {
+      "label": "Appel aux dons",
+      "titre": "Bleuets de France",
+      "description": "Soutien aux blessés de guerre<br>et aux veuves de combattants<br>Don déductible des impôts à 66 %"
+    }
+  ],
+
+  "photos": [
+    { "src": "images/ceremonie-11-nov.jpg",  "legende": "Cérémonie du 11 Novembre, Saint-Armel",   "categorie": "ceremonies" },
+    { "src": "images/porte-drapeau.jpg",      "legende": "Porte-drapeau de la section",             "categorie": "portraits"  },
+    { "src": "images/photo-section.jpg",      "legende": "Photo de section, années 1960",            "categorie": "archives"   },
+    { "src": "images/repas-anciens.jpg",      "legende": "Repas des anciens, salle Arzel",           "categorie": "vie"        },
+    { "src": "images/gerbe-8-mai.jpg",        "legende": "Dépôt de gerbe, 8 Mai",                   "categorie": "ceremonies" },
+    { "src": "images/membres-decores.jpg",    "legende": "Membres décorés de la section",            "categorie": "portraits"  },
+    { "src": "images/documents-1945.jpg",     "legende": "Documents historiques, 1945",              "categorie": "archives"   },
+    { "src": "images/monument.jpg",           "legende": "Monument aux morts, Saint-Armel",          "categorie": "ceremonies" },
+    { "src": "images/ag-annuelle.jpg",        "legende": "Assemblée générale annuelle",              "categorie": "vie"        },
+    { "src": "images/bureau-2024.jpg",        "legende": "Bureau de la section 2024",                "categorie": "portraits"  },
+    { "src": "images/quete-bleuets.jpg",      "legende": "Quête des bleuets, marché de Saint-Armel", "categorie": "vie"        },
+    { "src": "images/medailles.jpg",          "legende": "Médailles et décorations de la section",   "categorie": "archives"   }
+  ],
+
+  "contact": {
+    "adresse": "12 rue de la Lumière<br>75011 Paris, France",
+    "telephone": "+33 1 23 45 67 89",
+    "telephone_href": "+33123456789",
+    "email": "contact-asso@gmail.com"
+  },
+
+  "footer": "© Association Interdépartementale des C.P.G. – C.A.T.M. – T.O.E. · Section de Saint-Armel<br>Tous droits réservés · Mentions légales · CGU"
+}
